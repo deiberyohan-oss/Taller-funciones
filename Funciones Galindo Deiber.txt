@@ -1,0 +1,42 @@
+Primer Ejercicio
+Se utilizaron las siguientes funciones:
+sum(notas): cumple la funcion de sumar dichas notas en la lista
+len(notas): cumple la funcion de contar los elementos de la lista
+max(notas): obtiene el valor maximo de las notas
+min(notas): obtiene el valor minimo de las notas
+
+Segundo Ejercicio
+Se utilizaron las siguientes funciones:
+estudiantes_aprobados: como tal la funcion propia del ejercicio
+append: agrega elementos a la lista aprobados
+
+Tercer Ejercicio
+Se utilizaron las siguientes funciones:
+agregar_contacto: funcion propia, agrega un contacto a la agenda
+buscar_contacto: funcion propia, busca el contacto en la agenda, si existe muestra el nombre y numero y ni no existe muestra "No encontrado"
+eliminar_contacto: funcion propia, la cual borra un contacto de la agenda en dado caso que este se encuentre
+
+Cuatro Ejercicio:
+valor_total: función propia: se encarga de mostrar el valor total del inventario
+
+Quinto Ejercicio:
+contar_palabras: Cuenta cuántas veces aparece cada palabra en la lista
+
+Sexto Ejercicio:
+amalizar_ciudades(temperaturas):Analiza la temperatura de varias ciudades, calculando el promedio de cada ciudad.
+
+Septimo Ejercicio:
+nota_a_letra(nota): Convierte una nota numérica en letra (A, B, C, D, F)
+reporte(estudiantes): Muestra la lista de estudiantes mostrando nombre, nota y convierte la nota a letra
+
+Octavo Ejercicio:
+agregar_producto(nombre, precio): agrega un producto al carrito guardando su nombre y precio
+aplicar_descuento(porcentaje): Calcula los productos para brindar un descuento
+total_a_pagar(): Suma el precio de los productos indicando el precio a pagar.
+
+Noveno Ejercicio: 
+agrupar_por_categoria(lista): Agrupa productos según su categoría usando un diccionario
+
+Decimo Ejercicio: 
+contar_votos(votos): Cuenta los votos de cada candidato válido usando un diccionario
+ganador(conteo): Determina quién tiene más votos y encuentra el candidato con mayor cantidad dando el ganador
