@@ -1,3 +1,4 @@
+#ejercicio 10
 candidatos_validos = ["Ana", "Luis", "Sara"]
 
 def contar_votos(votos):
