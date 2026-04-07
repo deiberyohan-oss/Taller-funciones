@@ -1,3 +1,4 @@
+#ejercicio 9
 def agrupar_por_categoria(lista):
     grupos = {}
     for producto, categoria in lista:
