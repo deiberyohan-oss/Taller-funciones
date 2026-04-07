@@ -1,3 +1,4 @@
+#ejercicio 4
 def valor_total(inventario):
     total = 0
     for producto in inventario:
