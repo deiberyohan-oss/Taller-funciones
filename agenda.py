@@ -1,3 +1,4 @@
+#ejercicio 3
 agenda = {}
 def agregar_contacto(nombre, telefono):#agrega el contacto 
     agenda[nombre] = telefono
