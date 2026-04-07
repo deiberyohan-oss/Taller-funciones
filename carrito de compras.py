@@ -1,3 +1,4 @@
+#ejercicio 9
 carrito = []
 
 def agregar_producto(nombre, precio):
