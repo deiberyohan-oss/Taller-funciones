@@ -1,3 +1,4 @@
+#ejercicio 2
 def estudiantes_aprobados(lista):
     aprobados = []
     for nombre, nota in lista:
