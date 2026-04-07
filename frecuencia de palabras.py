@@ -1,3 +1,4 @@
+#ejercicio 5
 def contar_palabras(palabras):
     frecuencia = {}
     for palabra in palabras:
