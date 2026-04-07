@@ -1,3 +1,4 @@
+#ejercicio 6
 def analizar_ciudades(temperaturas):#ºanaliza las temperaturas de las ciudades
     ciudad_cal = ""
     ciudad_fri = ""
