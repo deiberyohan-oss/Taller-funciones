@@ -1,3 +1,4 @@
+#ejercicion 1
 def analizar_notas(notas):
     promedio = sum(notas) / len(notas)
     mayor = max(notas)
